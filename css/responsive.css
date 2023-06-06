@@ -1,0 +1,97 @@
+@media (min-width: 279px) and (max-width: 319px) {
+	
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+	.container{
+	width: 100%;
+	margin: 0px auto;
+	}
+
+	.col-6{
+	width: 100%;
+	float: left;
+	}
+
+	.col-4{
+	width: 100%;
+	float: left;
+	}
+
+	.header .logo{
+		display: block;
+		text-align: center;
+	}
+	.nav-menu li{
+		text-align: center;
+	}
+	.nav-menu li a{
+		text-align: center;
+		font-size: 12px;
+		font-weight: 700;
+		margin: 15px;
+	}
+	.banner h1 {
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.7em;
+    color: #0F2656;
+    margin: -50px 0px 10px;
+	}
+
+	.banner img {
+    width: 100%;
+	}
+
+	.text-left h1 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.7em;
+    color: red;
+    margin: 0px 10px 0px 0px;
+    text-align: center;
+	}
+
+	.text-left p {
+    font-size: 12px;
+    line-height: 1.7em;
+    color: #0F2656;
+    margin: 0px 10px 0px 0px;
+    text-align: center;
+	}
+
+	.text-right h1 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.7em;
+    margin: 20px 10px 0px 20px;
+    color: #0F2656;
+    text-align: center;
+	}
+
+	.inner-feature {
+    width: 73%;
+    float: left;
+    background-color: #eee;
+    padding: 50px 40px;
+    margin-left: 14px;
+    margin-top: 25px;
+	}
+
+	.footer p {
+    font-size: 12px;
+    line-height: 1.2em;
+    color: white;
+	}
+}
+	
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+	
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+	
+}
